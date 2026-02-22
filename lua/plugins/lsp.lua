@@ -193,6 +193,7 @@ return {
       'pyright',
       'ruff',
       'django-template-lsp',
+      'djlint', -- Django linter
 
       -- docker
       'dockerfile-language-server',

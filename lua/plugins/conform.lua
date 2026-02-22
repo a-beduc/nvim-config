@@ -6,6 +6,7 @@ return {
       python = { 'ruff_format' },
 
       html = { 'prettier' },
+      htmldjango = { 'djlint' },
       json = { 'prettier' },
       markdown = { 'prettier' },
       javascript = { 'prettier' },
